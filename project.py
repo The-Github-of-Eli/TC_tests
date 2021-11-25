@@ -1,6 +1,4 @@
 import pytest
-from teamcity import is_running_under_teamcity
-
 
 def test_1():
     assert True
